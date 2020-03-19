@@ -1,0 +1,4 @@
+* daemon not running. starting it now *
+* daemon started successfully *
+List of devices attached 
+
