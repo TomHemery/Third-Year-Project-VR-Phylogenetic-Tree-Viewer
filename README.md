@@ -1,7 +1,20 @@
-Initial repository for the development of a publishable paper from the VR 
-phylogenetic tree viewer project. 
+# Third Year Project - VR Visualisation of Phylogenetic Data
 
-Please find LaTeX files for the paper itself inside of the documents folder.
+This repo contains the result of my third year dissertation project, looking at visualizing phylogenetic data in VR using Unity and the HTC Vive Focus (a mobile, android based VR headset)
 
-The project itself can be opened from the unity editor, it is recommended to use
-version 2018.3.12f1 for the best possible compatability. 
+## Getting Started
+
+To run the project please checkout the main branch, then build it via the unity editor.
+
+### Prerequisites
+
+
+Unity: 2019.2.5f1 or later.
+
+The Vive Wave API -> SDK for Unity
+
+Optional: a Vive Focus headset, for the optimal experience this should be run on the headset, the PC controls are for debug only and are anything but intuitive. You are forewarned.
+
+## Authors
+
+* **Thomas Hemery** - *Project Developer* 
